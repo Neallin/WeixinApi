@@ -146,8 +146,8 @@
             "appid":data.appId ? data.appId : '',
             "img_url":data.imgUrl,
             "link":data.link,
-            "desc":data.title,
-            "title":data.desc,
+            "title":data.title,
+            "desc":data.desc,
             "img_width":"640",
             "img_height":"640"
         }, callbacks);
@@ -179,8 +179,8 @@
             "appid":data.appId ? data.appId : '',
             "img_url":data.imgUrl,
             "link":data.link,
-            "desc":data.desc,
             "title":data.title,
+            "desc":data.desc,
             "img_width":"640",
             "img_height":"640"
         }, callbacks);
@@ -237,8 +237,8 @@
             "appid":data.appId ? data.appId : '',
             "img_url":data.imgUrl,
             "link":data.link,
-            "desc":data.title,
-            "title":data.desc,
+            "title":data.title,
+            "desc":data.desc,
             "img_width":"640",
             "img_height":"640"
         }, callbacks);
